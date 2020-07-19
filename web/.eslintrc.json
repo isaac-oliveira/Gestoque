@@ -1,0 +1,9 @@
+{
+  "extends": ["airbnb-typescript-prettier"],
+  "rules": {
+    "prettier/prettier": "off",
+    "import/prefer-default-export": "off",
+    "import/extensions": "off",
+    "import/no-unresolved": "off"
+  }
+}
